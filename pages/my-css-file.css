@@ -1,0 +1,90 @@
+body {
+    min-width: 400px; max-width:800px; padding: 20px;
+    background-color: #666666;
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  input {
+    border-radius: 10px;
+    font-family: monospace;
+    width: 150px;
+  }
+  
+  #myButton {
+    border-radius: 6px;
+    padding: 5px;
+    background: lightGray;
+  }
+  
+  img {
+    width: 150px; height: 150px
+    auto;
+  }
+  
+  table {
+    width: inherit;
+    text-align: center;
+  }
+  
+  header {
+    background-color: rgb(73, 79, 97);
+    color: #22deff;
+    width: 100%;
+    border-radius: 25px;
+    border-style: groove;
+    border-color: #666666;
+    box-shadow: 10px 10px 5px 5px #2c2c2c7f, inset 0 0 5px #2c2c2c7f;
+    text-align: center;
+  }
+  
+  form {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px inset white;
+    background-color: lightgrey;
+    color: darkcyan;
+    padding: 5px;
+    width: 350px;
+  }
+  
+  nav {
+      padding: 50px 0;
+      min-width: 500px; 
+  }
+  nav ul {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      background: linear-gradient(90deg, 
+       rgba(255, 255, 255, 0) 0%, 
+       rgba(255, 255, 255, 0.2) 25%, 
+       rgba(255, 255, 255, 0.2) 75%, 
+       rgba(255, 255, 255, 0) 100%);
+  }
+  nav ul li {
+      display: inline-block;
+      font-weight: bold;
+  }
+  nav ul li a {
+      /* padding: 10px;  */
+      color: #ffffff;
+      display: block;
+      font-weight: normal;
+   }
+  
+   nav ul li:hover {
+     text-shadow: 0px 0px 2px #ffffff;
+   }
+  
+   h1 {
+     text-shadow: 3px 3px rgba(44, 44, 44, 0.5);
+   }
+  
+   #myList {
+    border-radius: 15px;
+    width: 25%;
+    list-style: square inside;
+    box-shadow: 0px 0px 5px 2px rgba(44, 44, 44, 0.5);
+    padding: 10px;
+  }
+  
