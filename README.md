@@ -14,6 +14,10 @@
     - [LinkedIn][my_linkedin]
     - [SoloLearn][my_sololearn]
 
+https://amzn.eu/d/05RytIXp
+https://amzn.eu/d/0e0rTqtT
+https://amzn.eu/d/05xC8y9C
+
 <!---
 brownbear2212/brownbear2212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
